@@ -17,6 +17,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [Web Services](#web-services)
 * [Realtime](#realtime)
 * [User Guide Translations](#user-guide-translations)
+* [Useful Websites](#useful-websites)
 * [Community](#community)
 
 ## Complex
@@ -39,6 +40,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [MaxSite CMS](https://github.com/maxsite/cms) - MaxSite CMS.
 * [ci-cms](https://bitbucket.org/hery/ci-cms) - CI-CMS using Modular Extensions.
 * [Codeigniter-Egypt](https://github.com/blazeeboy/Codeigniter-Egypt) - Another CodeIgniter CMS, With some Love.
+* [Open Blog](http://open-blog.org/) - Open Blog is a free and open source blogging platform built using the CodeIgniter PHP framework.
 
 ## Core
 * [CodeIgniter-Email-PHP-Errors](https://github.com/mikedfunk/CodeIgniter-Email-PHP-Errors) - A configurable drop-in customization to email yourself PHP errors encountered.
@@ -46,6 +48,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [CodeIgniter](https://github.com/rougin/codeigniter) - Installs CodeIgniter core through Composer.
 
 ## Libraries
+* [SmartGrid for CodeIgniter](https://github.com/techlab/codeigniter-smartgrid) - Simple datagrid control for CodeIgniter framework with Bootstrap.
 * [Biostall Google Map API](https://github.com/BIOSTALL/CodeIgniter-Google-Maps-V3-API-Library) - Google Map API.
 * [CodeIgniter Recaptcha](https://github.com/hok00age/codeigniter-recaptcha) - CodeIgniter library to work with reCAPTCHA.
 * [Ion Auth 2](https://github.com/benedmunds/CodeIgniter-Ion-Auth) - Simple and Lightweight Auth System.
@@ -55,7 +58,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [CodeIgniter-Cache](https://github.com/benedmunds/codeigniter-cache) - CodeIgniter-Cache is a partial caching library for CodeIgniter.
 * [CodeIgniter PHPMailer](https://github.com/ivantcholakov/codeigniter-phpmailer) - A CodeIgniter compatible email-library powered by PHPMailer.
 * [CodeIgniter-CLI](https://github.com/philsturgeon/codeigniter-cli) - Work with CodeIgniter over the command line.
-* [Craftsman-CLI](https://github.com/davidsosavaldes/Craftsman) - CLI for CodeIgniter 3.0 using Symfony Console component. 
+* [Craftsman-CLI](https://github.com/davidsosavaldes/Craftsman) - CLI for CodeIgniter 3.0 using Symfony Console component.
 * [CodeIgniter Bootstrap](https://github.com/sjlu/CodeIgniter-Bootstrap) - Bundles packages CI, REST, Twitter Bootstrap, FA, lodash.
 * [Codeigniter-breadcrumbs](https://github.com/nobuti/Codeigniter-breadcrumbs) - Small breadcrumb library for CodeIgniter.
 * [CodeIgniter-Breadcrumb](https://github.com/richarddavey/codeigniter-breadcrumb) - Breadcrumb generating library for CodeIgniter.
@@ -93,8 +96,9 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 * [codeigniter-phpunit](https://github.com/fmalk/codeigniter-phpunit) - Hack to make CodeIgniter work with PHPUnit.
 * [CodeIgniter Installer](https://github.com/mikecrittenden/codeigniter-installer) - A starting point for building an installer on CodeIgniter.
 * [Developer Toolbar](https://github.com/JCSama/CodeIgniter-develbar) - Developer Toolbar is a third party library based on Profiler.
-* [CodeIgniter Bundle](https://github.com/davidsosavaldes/Codeigniter-Bundle) - CodeIgniter Bundle implements a Modular pattern (MMVC) into Codeigniter Framework. 
+* [CodeIgniter Bundle](https://github.com/davidsosavaldes/Codeigniter-Bundle) - CodeIgniter Bundle implements a Modular pattern (MMVC) into Codeigniter Framework.
 * [Codeigniter Global Installer](https://github.com/davidsosavaldes/Codeigniter-Installer) - A Composer global command that installs the latest official CodeIgniter framework.
+* [Bash Igniter](https://github.com/omarkdev/bash-igniter) - Create Controllers, Models, routes, Views and Helpers using command line.
 
 ## CRUD
 * [Grocery CRUD](https://github.com/scoumbourdis/grocery-crud) - CRUD library that creates a full functional.
@@ -138,6 +142,10 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## User Guide Translations
 * [Indonesia](http://codeigniter-id.github.io/user-guide/) - Indonesian CodeIgniter User Guide.
+* [Brazil](https://cibr.github.io/User-Guide-CodeIgniter-PtBr/) - Brazilian CodeIgniter User Guide.
+
+## Useful Websites
+* [avenir.ro/codeigniter-tutorials](http://avenir.ro/codeigniter-tutorials/)
 
 ## Community
 * [Official CodeIgniter](https://github.com/bcit-ci/CodeIgniter)
